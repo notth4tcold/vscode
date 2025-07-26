@@ -62,6 +62,7 @@ code --install-extension redhat.java                              # IntelliSense
 # 🧬 KOTLIN
 # ---------------------------
 code --install-extension mathiasfrohlich.kotlin                   # Suporte básico para Kotlin
+code --install-extension fwcd.kotlin                              # Análise de erros, completions e linting para Kotlin
 
 # ---------------------------
 # 🌐 HTML / CSS
