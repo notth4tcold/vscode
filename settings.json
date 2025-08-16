@@ -19,7 +19,7 @@
   "editor.minimap.enabled": false,
   "editor.codeLens": false,
   "editor.fontSize": 16,
-  "editor.fontFamily": "Maple Mono",
+  "editor.fontFamily": "Maple Mono, JetBrainsMono Nerd Font Mono",
   "editor.allowVariableFonts": true,
   "editor.fontLigatures": true,
 
@@ -109,3 +109,4 @@
   "breadcrumbs.enabled": true,
   "window.zoomLevel": 0
 }
+
