@@ -77,5 +77,17 @@ Este guia rápido contém os atalhos mais importantes do Visual Studio Code, org
 
 ---
 
+## ⚡ Automação com Script
+
+Se você possui o `backup.sh`, basta executá-lo para fazer o backup:
+
+```bash
+./backup.sh
+```
+
+- O script cuida de copiar arquivos/pastas do vscode automaticamente.
+
+---
+
 💡 Dica: Mantenha este guia à mão para aumentar a produtividade e dominar o VS Code rapidamente.
 
