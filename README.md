@@ -10,7 +10,6 @@ Este repositório contém configurações personalizadas para o Visual Studio Co
 - `keybindings.json`: Atalhos de teclado personalizados
 - `extensions.sh`: Script para instalar extensões recomendadas
 - `backup.sh`: Script para backup de configurações essenciais
-- `README.md`: Este arquivo
 
 ---
 
