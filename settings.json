@@ -45,7 +45,7 @@
     "source.fixAll.eslint": "explicit"
   },
 
-   // 🛠️ Configurações para C/C++
+  // 🛠️ Configurações para C/C++
   "C_Cpp.intelliSenseEngine": "default",
   "C_Cpp.errorSquiggles": "enabled",
   "C_Cpp.clang_format_style": "{ BasedOnStyle: LLVM, BreakBeforeBraces: Attach }",
@@ -109,4 +109,3 @@
   "breadcrumbs.enabled": true,
   "window.zoomLevel": 0
 }
-
